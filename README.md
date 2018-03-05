@@ -1,4 +1,4 @@
-# About:
+# About
 This repo is simple implementation of cucumber with junit.
 
 ## Run the test script locally from commandline:
